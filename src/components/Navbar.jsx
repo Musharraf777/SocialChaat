@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="nav-brand">
-        <span className="logo-text">kekka.</span>
+        <span className="logo-text">SocialChaat.</span>
       </div>
       <div className="nav-links">
         <a href="#" className="active">Shop All</a>
